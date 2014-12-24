@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1419441347 source:c:\users\asus\desktop\треугольник\draw.cpp
+	<iostream>
+	<cmath>
+	<random>
+	<complex>
+	<typeinfo>
+	"gif.hpp"
+
+1418415654 c:\users\asus\desktop\треугольник\gif.hpp
+	<string>
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdlib.h>
+
